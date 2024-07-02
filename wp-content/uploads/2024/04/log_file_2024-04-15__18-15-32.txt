@@ -1,0 +1,60 @@
+
+---Upload files---
+Content file was not uploaded. Error: No file provided.
+
+---Upload files---
+Customizer file was not uploaded. Error: No file provided.
+
+---Upload files---
+Redux file was not uploaded. Error: No file provided.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 360
+Files info:
+Site URL = https://viagens.extremaday.com.br
+Data file = not defined!
+Widget file = /home/u219720378/domains/extremaday.com.br/public_html/viagens/wp-content/uploads/2024/04/sinceremeal.s1-tastewp.com-widgets.wie
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---Importing widgets---
+Sidebar : 
+
+Pesquisar - No Title - Imported
+Artigos recentes - No Title - Imported
+Comentários recentes - No Title - Imported
+Arquivo - No Title - Imported
+Categorias - No Title - Imported
+Meta - No Title - Imported
+Bloco - No Title - Imported
+WP Travel Engine: Category List - Destination - Imported
+WP Travel Engine: Category List - Activities - Imported
+WP Travel Engine: Featured Trips Widget - Featured Trips - Imported
+WP Travel Engine: Recent Posts - Recent Posts - Imported
+
+Footer One : 
+
+WP Travel Engine: Contact Widget - Contact Info - Imported
+
+Footer Two : 
+
+Menu de navegação - Destinations - Imported
+
+Footer Three : 
+
+Menu de navegação - Activities - Imported
+
+Footer Four : 
+
+Menu de navegação - Trip Types - Imported
+
+WP Travel Engine Sidebar : 
+
+WP Travel Engine: Featured Trips Widget - Featured Trips - Imported
+
+
+
+---ocdi/after_import---
+

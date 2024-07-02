@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Atividade Praia &#8211; Extrema Viagens Teste</title>
+	<atom:link href="https://extremaviagensnew.netlify.app/activities/atividade-praia/feed/" rel="self" type="application/rss+xml" />
+	<link>https://extremaviagensnew.netlify.app/</link>
+	<description></description>
+	<lastBuildDate>Tue, 07 May 2024 19:45:40 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>https://extremaviagensnew.netlify.app/wp-content/uploads/2024/04/cropped-Icone-Laranja-Fundo-Transparente-32x32.png</url>
+	<title>Atividade Praia &#8211; Extrema Viagens Teste</title>
+	<link>https://extremaviagensnew.netlify.app/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>MSC Armonia</title>
+		<link>https://extremaviagensnew.netlify.app/trip/msc-armonia/</link>
+					<comments>https://extremaviagensnew.netlify.app/trip/msc-armonia/#respond</comments>
+		
+		<dc:creator><![CDATA[danilocirino]]></dc:creator>
+		<pubDate>Mon, 22 Apr 2024 16:59:19 +0000</pubDate>
+				<guid isPermaLink="false">https://extremaviagensnew.netlify.app/?post_type=trip#038;p=4843</guid>
+
+					<description><![CDATA[*Valor com base na saída do dia 03/02/2025]]></description>
+										<content:encoded><![CDATA[
+<p>*Valor com base na saída do dia 03/02/2025</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://extremaviagensnew.netlify.app/trip/msc-armonia/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
